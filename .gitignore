@@ -27,3 +27,24 @@ ccdaservice/node_modules
 # testing
 .phpunit.result.cache
 coverage/js-unit
+
+
+sites/default/documents/.htaccess
+sites/default/documents/certificates/README.md
+sites/default/documents/couchdb/README
+sites/default/documents/custom_menus/Custom.json
+sites/default/documents/edi/README.txt
+sites/default/documents/era/README.txt
+sites/default/documents/letter_templates/sample
+sites/default/documents/logs_and_misc/methods/README.md
+sites/default/documents/mpdf/pdf_tmp/README
+sites/default/documents/onsite_portal_documents/templates/Help.tpl
+sites/default/documents/onsite_portal_documents/templates/Hipaa_Document_Oemr.tpl
+sites/default/documents/onsite_portal_documents/templates/Insurance_Info.tpl
+sites/default/documents/onsite_portal_documents/templates/Medical_History.tpl
+sites/default/documents/onsite_portal_documents/templates/Privacy_Document.tpl
+sites/default/documents/procedure_results/README
+sites/default/documents/smarty/gacl/README
+sites/default/documents/smarty/main/README
+sites/default/documents/temp/README
+sites/default/sqlconf.php
